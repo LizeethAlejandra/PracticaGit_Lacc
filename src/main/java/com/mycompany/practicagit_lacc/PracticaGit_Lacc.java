@@ -11,7 +11,11 @@ package com.mycompany.practicagit_lacc;
 public class PracticaGit_Lacc {
 
     public static void main(String[] args) {
-        System.out.println("---Sistema de gestion ");
+        System.out.println("---Sistema de Gestión de alumnos---");
+        System.out.println("Bienvenido, Usuario Estudiante");
+         
+      
+        
         
         
         
